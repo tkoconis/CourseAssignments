@@ -20,4 +20,8 @@ CS 4620: Introduction to Computer Graphics: https://www.cs.cornell.edu/courses/c
 
 Spring 2020:
 CS 4410: Operating Systems
-CS 4701: Introduction to Artificial Intelligence
+CS 4701: Intro to Artificial Intelligence
+
+Fall 2020:
+CS 4320: Intro to Database Systems
+CS 4701: Practicum in Artificial Intelligence
